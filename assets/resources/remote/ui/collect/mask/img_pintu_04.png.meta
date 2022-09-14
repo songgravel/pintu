@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.7",
   "uuid": "b234b391-6d74-42f1-b55f-87339ffa77ac",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "img_pintu_04": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e5e50062-d3d3-45c0-b2b2-4f3cef79bbd8",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b234b391-6d74-42f1-b55f-87339ffa77ac",
       "trimType": "auto",
       "trimThreshold": 1,
